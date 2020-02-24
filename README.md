@@ -1,5 +1,5 @@
 #  graph
-## object/frame graph system template
+## object / frame graph system template
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2020 All rights reserved
 
