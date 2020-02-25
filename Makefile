@@ -27,7 +27,7 @@ requirements.txt: $(PIP)
 .PHONY: debian
 debian:
 	sudo apt update
-	sudo apt install -u python3
+	sudo apt install -u python3 python3-pyqt5
 
 .PHONY: merge release zip
 
